@@ -56,8 +56,5 @@ Below is a sample configuration file that defines the initial condition module a
 }
 ```
 
-This setup provides a flexible and organized way to run simulations with Clawpack, allowing easy modifications to initial conditions and parameters for each prototype problem.
-
---- 
 
 This structure and approach will help you manage multiple simulation setups and track experimental results efficiently. Let me know if you want further details on specific parts of the setup!
